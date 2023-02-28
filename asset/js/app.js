@@ -25,7 +25,7 @@ import { modeBtn, shareBtn } from "./constants.js"
         navigator.share({
           title:"Awesome PWA Camera App",
           text:"Switch , Capture , Share Moments",
-          url:"https://akashskillhub.github.io/pwa-camera/"
+          url:"https://yogi-18.github.io/camera-using-pwa/"
         })
       }
     })
